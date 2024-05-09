@@ -1,5 +1,16 @@
 .App {
+  background-color: aqua;
   text-align: center;
+  
+}
+
+p{
+  color: white ;
+}
+
+form{
+  display: flex;
+  flex-direction: row;
 }
 
 .App-logo {
